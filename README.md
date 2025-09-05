@@ -11,6 +11,13 @@ concurrennt problems. I have also decided to use both C and C++
 where C is used to understand the base concept and C++
 serves as an improved version of a C program.
 
+# Progress
+I have now solved the next set of problems (all in C):
+- data race
+- five dining philosophers
+- consumer-producer
+- future promise
+
 # Usage
 CMake....
 
